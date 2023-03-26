@@ -2,6 +2,7 @@ baseURL = 'https://indiknot.uehr.co/'
 languageCode = 'ja'
 title = 'Indiknot'
 theme = 'PaperMod'
+publishDir = "docs"
 
 [params]
     DateFormat = "2006-01-02"
