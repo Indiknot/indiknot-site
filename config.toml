@@ -1,0 +1,7 @@
+baseURL = 'https://indiknot.uehr.co/'
+languageCode = 'ja'
+title = 'Indiknot'
+theme = 'PaperMod'
+
+[params]
+    DateFormat = "2006-01-02"
