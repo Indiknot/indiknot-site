@@ -58,6 +58,5 @@ uehara.yudai+vedanet@gmail.com
 
 ---
 
-[Vedanet | 人々の繋ぎ目となる](/posts/vedanet)
-
-[![Vedanet Logo](/images/vedanet-with-name.png)](/posts/vedanet)
+[Vedanet | 人々の繋ぎ目となる](/)
+[![Vedanet Logo](/images/vedanet-with-name.png)](/)
