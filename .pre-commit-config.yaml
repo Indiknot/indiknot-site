@@ -1,0 +1,7 @@
+repos:
+- repo: local
+  hooks:
+    - id: build-hugo
+      name: build-hugo
+      entry: .githooks/build-hugo.sh
+      language: script

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Indiknot</title>
-    <link>https://indiknot.uehr.co/</link>
-    <description>Recent content on Indiknot</description>
+    <title>Posts on Indiknot</title>
+    <link>https://indiknot.uehr.co/posts/</link>
+    <description>Recent content in Posts on Indiknot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Mar 2023 14:15:21 +0900</lastBuildDate><atom:link href="https://indiknot.uehr.co/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 14:15:21 +0900</lastBuildDate><atom:link href="https://indiknot.uehr.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LINEで恋愛相談ができる恋バナAI 「アイさん」 が登場！</title>
       <link>https://indiknot.uehr.co/posts/product-koibana-ai/</link>

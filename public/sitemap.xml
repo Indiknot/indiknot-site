@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://indiknot.uehr.co/</loc>
+    <lastmod>2023-03-26T14:15:21+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://indiknot.uehr.co/posts/product-koibana-ai/</loc>
+    <lastmod>2023-03-26T14:15:21+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://indiknot.uehr.co/posts/</loc>
+    <lastmod>2023-03-26T14:15:21+09:00</lastmod>
+  </url><url>
+    <loc>https://indiknot.uehr.co/posts/transaction-info/</loc>
+    <lastmod>2023-03-26T14:00:43+09:00</lastmod>
+  </url><url>
+    <loc>https://indiknot.uehr.co/categories/</loc>
+  </url><url>
+    <loc>https://indiknot.uehr.co/tags/</loc>
   </url>
 </urlset>
