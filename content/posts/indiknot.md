@@ -1,7 +1,7 @@
 ---
 title: "Indiknot | 人々の繋ぎ目となる"
 date: 2023-03-26T13:46:47+09:00
-draft: true
+draft: false
 ---
 
 ![Indiknot Logo](/images/indiknot-logo-with-name-side.png)
