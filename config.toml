@@ -1,6 +1,6 @@
-baseURL = 'https://indiknot.uehr.co/'
+baseURL = 'https://Vedanet.uehr.co/'
 languageCode = 'ja'
-title = 'Indiknot'
+title = 'Vedanet'
 theme = 'PaperMod'
 publishDir = "docs"
 

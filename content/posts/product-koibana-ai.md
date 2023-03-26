@@ -34,5 +34,5 @@ draft: false
 ---
 
 - [特定商取引法に基づく表示](/posts/transaction-info)
-- [Indiknot | 人々の繋ぎ目となる](/posts/indiknot)
-[![Indiknot Logo](/images/indiknot-logo-with-name-side-tite.png)](/posts/indiknot)
+- [Vedanet | 人々の繋ぎ目となる](/posts/vedanet)
+[![Vedanet Logo](/images/vedanet-with-name.png)](/posts/vedanet)

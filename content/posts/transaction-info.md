@@ -18,7 +18,7 @@ draft: false
 
 ### メールアドレス
 
-uehara.yudai+indiknot@gmail.com
+uehara.yudai+vedanet@gmail.com
 
 ### 運営統括責任者
 
@@ -58,6 +58,6 @@ uehara.yudai+indiknot@gmail.com
 
 ---
 
-[Indiknot | 人々の繋ぎ目となる](/posts/indiknot)
+[Vedanet | 人々の繋ぎ目となる](/posts/vedanet)
 
-[![Indiknot Logo](/images/indiknot-logo-with-name-side-tite.png)](/posts/indiknot)
+[![Vedanet Logo](/images/vedanet-with-name.png)](/posts/vedanet)

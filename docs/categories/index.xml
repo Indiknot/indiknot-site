@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Indiknot</title>
-    <link>https://indiknot.uehr.co/categories/</link>
-    <description>Recent content in Categories on Indiknot</description>
+    <title>Categories on Vedanet</title>
+    <link>https://Vedanet.uehr.co/categories/</link>
+    <description>Recent content in Categories on Vedanet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://indiknot.uehr.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://Vedanet.uehr.co/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
