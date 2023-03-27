@@ -1,0 +1,13 @@
+baseURL: 'https://Vedanet.uehr.co/'
+languageCode: 'ja'
+title: 'Vedanet'
+theme: 'PaperMod'
+publishDir: "docs"
+params:
+    assets:
+        favicon: "/favicon.ico"
+        favicon16x16:  "/img/favicon-16x16.png"
+        favicon32x32:  "/img/favicon-32x32.png"
+        apple_touch_icon:  "/img/apple-touch-icon.png"
+    images: "/images/vedanet-with-name.png"
+    ShareButtons: ["twitter"]

@@ -1,14 +1,12 @@
 ---
-title: "Vedanet | 人々の繋ぎ目となる"
+title: "Vedanet | 人々の繋ぎ目"
 date: 2023-03-26T13:46:47+09:00
 draft: false
 ---
 
-# Vedanet | 人々の繋ぎ目となる
-
 ![Vedanet Logo](/images/vedanet-with-name.png)
 
-「Vedanet」はソフトウェアの力で人々の結び目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
+「Vedanet」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
 
 
 ## Products

@@ -1,8 +1,0 @@
-baseURL = 'https://Vedanet.uehr.co/'
-languageCode = 'ja'
-title = 'Vedanet'
-theme = 'PaperMod'
-publishDir = "docs"
-
-[params]
-    DateFormat = "2006-01-02"
