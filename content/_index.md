@@ -5,8 +5,6 @@ draft: false
 meta_image: "vedanet.png"
 ---
 
-# Vedanet | 人々の繋ぎ目となる
-
 ![Vedanet Logo](/images/vedanet-with-name.png)
 
 「Vedanet」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
