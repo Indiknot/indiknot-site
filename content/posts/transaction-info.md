@@ -55,7 +55,7 @@ uehara.yudai+vedanet@gmail.com
 
 ### 販売価格
 
-恋バナAI 話し放題プラン: ¥300 / 月
+恋バナAI 話し放題プラン: ¥500 / 月
 
 ---
 
