@@ -12,6 +12,10 @@ meta_image: "vedanet.png"
 
 ## Products
 
-- [LINEで恋バナができる恋バナAI 「アイさん(仮）」](posts/product-koibana-ai)
+![アイさん](/images/koibana-ai/koibana-ai.jpeg)
+
+[LINEで恋バナができるAI 「アイさん」](posts/product-koibana-ai)
+
+---
 
 ## Recent Posts
