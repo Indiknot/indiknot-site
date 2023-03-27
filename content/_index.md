@@ -5,6 +5,8 @@ draft: false
 meta_image: "vedanet.png"
 ---
 
+# Vedanet | 人々の繋ぎ目となる
+
 ![Vedanet Logo](/images/vedanet-with-name.png)
 
 「Vedanet」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
@@ -18,7 +20,7 @@ meta_image: "vedanet.png"
 
 ---
 
-恋バナAIは「アイさん」は、数多くの恋愛相談を受けてきたAIの「アイさん」に対してLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
+恋バナAI「アイさん」は、数多くの恋愛相談を受けてきたAIのアイさんに対してLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
 
 
 ## Recent Posts
