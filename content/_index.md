@@ -11,8 +11,11 @@ meta_image: "vedanet.png"
 
 「Vedanet」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
 
+&nbsp;
 
-## Products
+## ■ Products
+
+&nbsp;
 
 [![アイさん](/images/koibana-ai/koibana-ai.jpeg)](posts/product-koibana-ai)
 
@@ -22,5 +25,8 @@ meta_image: "vedanet.png"
 
 恋バナAI「アイさん」は、数多くの恋愛相談を受けてきたAIのアイさんに対してLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
 
+&nbsp;
 
-## Recent Posts
+## ■ Recent Posts
+
+&nbsp;
