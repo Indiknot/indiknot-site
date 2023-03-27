@@ -11,3 +11,4 @@ params:
         apple_touch_icon:  "/images/apple-touch-icon.png"
     images: ["vedanet.png"]
     ShareButtons: ["twitter"]
+    DateFormat: "2006-01-02"
