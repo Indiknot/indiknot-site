@@ -1,6 +1,6 @@
-baseURL: 'https://Vedanet.uehr.co/'
+baseURL: 'https://vedanet.uehr.co/'
 languageCode: 'ja'
-title: 'Vedanet'
+title: 'vedanet'
 theme: 'PaperMod'
 publishDir: "docs"
 params:
