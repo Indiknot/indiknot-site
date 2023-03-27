@@ -11,7 +11,7 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
-## ■ Products
+## Products
 
 &nbsp;
 
@@ -25,6 +25,6 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
-## ■ Recent Posts
+## Recent Posts
 
 &nbsp;
