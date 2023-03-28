@@ -9,7 +9,7 @@ meta_image: "vedanet.png"
 
 恋愛相談を人に打ち明けるのはなかなか勇気がいるものです。そんな悩めるあなたに、新しい相談相手が登場しました！
 
-![アイさん](/images/koibana-ai/koibana-ai.jpeg)
+![アイさん](/images/koibana-ai/koibana-ai.png)
 
 恋バナAI「アイさん」は、数多くの恋愛相談を受けてきたAIのアイさんにLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
 
@@ -49,5 +49,5 @@ meta_image: "vedanet.png"
 ---
 
 - [特定商取引法に基づく表記](/posts/transaction-info)
-- [Vedanet | 人々の繋ぎ目となる](/posts/vedanet)
+- [Vedanet | 人々の繋ぎ目となる](/)
 [![Vedanet Logo](/images/vedanet-with-name.png)](/)

@@ -15,7 +15,7 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
-[![アイさん](/images/koibana-ai/koibana-ai.jpeg)](posts/product-koibana-ai)
+[![アイさん](/images/koibana-ai/koibana-ai.png)](posts/product-koibana-ai)
 
 [LINEで恋愛相談ができるAI「アイさん」](posts/product-koibana-ai)
 
