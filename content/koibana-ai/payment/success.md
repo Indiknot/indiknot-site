@@ -5,4 +5,6 @@ draft: false
 hideMeta: true
 ---
 
-success
+![アイさん](/images/koibana-ai/koibana-ai.png)
+
+お支払いありがとうございます！話放題プランで何でもお話しください！

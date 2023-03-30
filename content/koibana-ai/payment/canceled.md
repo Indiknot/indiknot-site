@@ -5,4 +5,6 @@ draft: false
 hideMeta: true
 ---
 
-canceled
+![アイさん](/images/koibana-ai/koibana-ai.png)
+
+お支払いがキャンセルされました。
