@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LINEで恋愛相談ができるAI 「アイさん」 が登場！ on vedanet</title>
+    <link>https://vedanet.uehr.co/koibana-ai/</link>
+    <description>Recent content in LINEで恋愛相談ができるAI 「アイさん」 が登場！ on vedanet</description>
+    <image>
+      <title>vedanet</title>
+      <url>https://vedanet.uehr.co/vedanet.png</url>
+      <link>https://vedanet.uehr.co/vedanet.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 26 Mar 2023 14:15:21 +0900</lastBuildDate><atom:link href="https://vedanet.uehr.co/koibana-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://vedanet.uehr.co/koibana-ai/payment/checkout/</link>
+      <pubDate>Thu, 30 Mar 2023 22:56:07 +0900</pubDate>
+      
+      <guid>https://vedanet.uehr.co/koibana-ai/payment/checkout/</guid>
+      <description>支払いページへ遷移中&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Canceled</title>
+      <link>https://vedanet.uehr.co/koibana-ai/payment/canceled/</link>
+      <pubDate>Thu, 30 Mar 2023 22:56:07 +0900</pubDate>
+      
+      <guid>https://vedanet.uehr.co/koibana-ai/payment/canceled/</guid>
+      <description>canceled</description>
+    </item>
+    
+    <item>
+      <title>Success</title>
+      <link>https://vedanet.uehr.co/koibana-ai/payment/success/</link>
+      <pubDate>Thu, 30 Mar 2023 22:56:03 +0900</pubDate>
+      
+      <guid>https://vedanet.uehr.co/koibana-ai/payment/success/</guid>
+      <description>success</description>
+    </item>
+    
+  </channel>
+</rss>

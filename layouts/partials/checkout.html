@@ -1,0 +1,40 @@
+<script src="https://js.stripe.com/v3"></script>
+
+<script>
+(function() {
+  const getParam = (key) => {
+      const url = window.location.href;
+      console.log("url: " + url)
+      name = name.replace(/[\[\]]/g, "\\$&");
+      var regex = new RegExp("[?&]" + key + "(=([^&#]*)|&|#|$)"),
+          results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+
+      return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+
+  const stripe = Stripe('pk_test_51MpLZGBJQaGa5lwy3dmL9tgzgcdFXqZoNuirn3ZogAIe1z61Ck0UjWArtIDtoWA5gLXnkPuCBmCgSr8p0NbKVvJF00wzGQ986B');
+  const userID = getParam("user_id")
+
+  if (!userID) {
+    alert("不正なアクセスを検出しました。再度お試しください。")
+    window.history.back()
+    return
+  }
+
+  stripe.redirectToCheckout({
+    lineItems: [{price: "{{ .price }}", quantity: 1}],
+    mode: "{{ .mode }}",
+    successUrl: "{{ .successUrl }}",
+    cancelUrl: "{{ .canceledUrl }}",
+    clientReferenceId: userID
+  })
+  .then(function (result) {
+    if (result.error) {
+      var displayError = document.getElementById('error-message');
+      displayError.textContent = result.error.message;
+    }
+  });
+})();
+</script>
