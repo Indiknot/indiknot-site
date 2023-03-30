@@ -16,7 +16,6 @@ meta_image: "vedanet.png"
 &nbsp;
 
 [![アイさん](/images/koibana-ai/koibana-ai.png)](posts/product-koibana-ai)
-
 [LINEで恋愛相談ができるAI「アイさん」](posts/product-koibana-ai)
 
 ---
@@ -25,6 +24,4 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
-## Recent Posts
-
-&nbsp;
+[特定商取引法に基づく表記](posts/transaction-info)
