@@ -48,6 +48,5 @@ meta_image: "vedanet.png"
 
 ---
 
-- [特定商取引法に基づく表記](/transaction-info)
 - [Vedanet | 人々の繋ぎ目となる](/)
 [![Vedanet Logo](/images/vedanet-with-name.png)](/)
