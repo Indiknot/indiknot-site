@@ -23,8 +23,6 @@ meta_image: "vedanet.png"
 
 ![回答1](/images/koibana-ai/example-1.png)
 ![回答2](/images/koibana-ai/example-2.png)
-![回答3](/images/koibana-ai/example-3.png)
-![回答4](/images/koibana-ai/example-4.png)
 
 &nbsp;
 
@@ -33,7 +31,7 @@ meta_image: "vedanet.png"
 &nbsp;
 
 ![フレンド追加QRコード](/images/koibana-ai/friend-qr.png)
-[LINEで恋バナAI「アイさん」を友達登録](https://lin.ee/SENDBWZ)
+[LINEで恋バナAI「アイさん」を友達登録](https://lin.ee/zM4zOZx)
 
 &nbsp;
 
@@ -41,7 +39,7 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
-- 1日5回まで相談無料
+- 1日3回まで相談無料
 - **恋バナAI 話し放題プラン: ¥500 / 月** で相談し放題！
 
 &nbsp;
