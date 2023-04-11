@@ -11,7 +11,7 @@ meta_image: "vedanet.png"
 
 ![アイさん](/images/koibana-ai/koibana-ai.png)
 
-恋バナAI「アイさん」は、数多くの恋愛相談を受けてきたAIのアイさんにLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
+「恋バナAI アイさん」は、数多くの恋愛相談を受けてきたAIのアイさんにLINEで恋愛相談ができるサービスです。AIだからこそ相談内容は完全に秘密が守られ、安心して相談ができます。
 
 アイさんは恋愛の悩みや質問への的確なアドバイスであなたの幸せな恋愛の成就を精一杯サポートしてくれます。今までにない新しい相談相手に、あなたの恋愛について話してみませんか？
 
@@ -31,7 +31,7 @@ meta_image: "vedanet.png"
 &nbsp;
 
 ![フレンド追加QRコード](/images/koibana-ai/friend-qr.png)
-[LINEで恋バナAI「アイさん」を友達登録](https://lin.ee/zM4zOZx)
+[LINEで「恋バナAI アイさん」を友達登録](https://lin.ee/zM4zOZx)
 
 &nbsp;
 
