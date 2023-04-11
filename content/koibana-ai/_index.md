@@ -44,6 +44,8 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
+[「恋バナAI アイさん」に関するお問い合わせはこちら](https://docs.google.com/forms/d/e/1FAIpQLSew9y6_qiZEn3V4qTJlGIYKM9lxGoJnyV9PcAoijhj9wJjsAw/viewform?usp=pp_url&entry.751867517=from+web)
+
 ---
 
 - [Vedanet | 人々の繋ぎ目となる](/)
