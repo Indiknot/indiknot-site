@@ -21,6 +21,8 @@ meta_image: "vedanet.png"
 
 &nbsp;
 
+あなたの恋愛相談に対して、具体的なアドバイスをしてくれます。
+
 ![回答1](/images/koibana-ai/example-1.png)
 ![回答2](/images/koibana-ai/example-2.png)
 
@@ -41,6 +43,44 @@ meta_image: "vedanet.png"
 
 - 1日3回まで相談無料
 - **恋バナAI 話し放題プラン: ¥500 / 月** で相談し放題！
+
+
+&nbsp;
+
+## ■ コマンド
+
+### `話し放題プラン` (申し込み前)
+
+話し放題プランへの申し込みリンクを開きます。
+
+![回答3](/images/koibana-ai/example-3.png)
+
+### `話し放題プラン` (申し込み後)
+
+話し放題プランの利用状況が分かります。
+
+
+![回答4](/images/koibana-ai/example-4.png)
+
+### `話し放題プラン解約`
+
+話し放題プランの解約が出来ます。
+
+
+![回答5](/images/koibana-ai/example-5.png)
+
+### `感想 ...`
+
+アイさんの恋愛相談への感想をコメントすることで、無料で相談できる回数が1回増えます。
+頂いた感想はより良い恋愛相談に役立てます。
+
+![回答6](/images/koibana-ai/example-6.png)
+
+### `お問い合わせ`
+
+お問合せ窓口を開きます。
+
+![回答7](/images/koibana-ai/example-7.png)
 
 &nbsp;
 
