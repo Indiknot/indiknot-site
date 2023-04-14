@@ -2,7 +2,7 @@
 title: "LINEで恋愛相談ができるAI 「アイさん」 が登場！"
 date: 2023-03-26T14:15:21+09:00
 draft: false
-meta_image: "vedanet.png"
+meta_image: "images/koibana-ai/koibana-ai.png"
 ---
 
 ## LINEで恋愛相談ができるAI 「アイさん」
