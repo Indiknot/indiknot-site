@@ -2,7 +2,7 @@
 title: "Vedanet | 人々の繋ぎ目となる"
 date: 2023-03-26T13:46:47+09:00
 draft: false
-meta_image: "vedanet.png"
+meta_image: "images/koibana-ai/koibana-ai.png"
 ---
 
 ![Vedanet Logo](/images/vedanet-with-name.png)
