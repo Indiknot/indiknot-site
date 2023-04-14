@@ -2,6 +2,7 @@
 title: "LINEで恋愛相談ができるAI 「アイさん」 が登場！"
 date: 2023-03-26T14:15:21+09:00
 draft: false
+disableShare: false
 ---
 
 ## LINEで恋愛相談ができるAI 「アイさん」
@@ -83,9 +84,11 @@ draft: false
 
 &nbsp;
 
+## ■ お問い合わせ
+
+&nbsp;
+
 [「恋バナAI アイさん」に関するお問い合わせはこちら](https://docs.google.com/forms/d/e/1FAIpQLSew9y6_qiZEn3V4qTJlGIYKM9lxGoJnyV9PcAoijhj9wJjsAw/viewform?usp=pp_url&entry.751867517=from+web)
 
----
 
-- [Vedanet | 人々の繋ぎ目となる](/)
-[![Vedanet Logo](/images/vedanet-with-name.png)](/)
+&nbsp;

@@ -7,6 +7,7 @@ payment:
     canceledUrl: "https://vedanet.uehr.co/koibana-ai/payment/canceled/"
     price: "price_1MpWZjBJQaGa5lwyzCXAh7x6"
     mode: "subscription"
+disableShare: true
 ---
 
 お支払いページへ遷移
