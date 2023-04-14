@@ -9,6 +9,6 @@ params:
         favicon16x16:  "/images/favicon-16x16.png"
         favicon32x32:  "/images/favicon-32x32.png"
         apple_touch_icon:  "/images/apple-touch-icon.png"
-    images: ["vedanet.png"]
+    images: ["images/koibana-ai/koibana-ai.png"]
     ShareButtons: ["twitter"]
     DateFormat: "2006-01-02"
