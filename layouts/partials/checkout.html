@@ -14,7 +14,8 @@
       return decodeURIComponent(results[2].replace(/\+/g, " "));
   }
 
-  const stripe = Stripe('pk_test_51MpLZGBJQaGa5lwy3dmL9tgzgcdFXqZoNuirn3ZogAIe1z61Ck0UjWArtIDtoWA5gLXnkPuCBmCgSr8p0NbKVvJF00wzGQ986B');
+  // const stripe = Stripe('pk_test_51MpLZGBJQaGa5lwy3dmL9tgzgcdFXqZoNuirn3ZogAIe1z61Ck0UjWArtIDtoWA5gLXnkPuCBmCgSr8p0NbKVvJF00wzGQ986B');
+  const stripe = Stripe('pk_live_51MpLZGBJQaGa5lwy7UTjhEB7QADAzqEcy3uw0hpV29vqPrphWncY5325HzmGYN2RSipgwVJFghT9Hy0Wi37V07nX00SbW6H4dG');
   const userID = getParam("uid")
 
   if (!userID) {
