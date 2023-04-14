@@ -5,7 +5,7 @@ hideMeta: true
 payment:
     successUrl: "https://vedanet.uehr.co/koibana-ai/payment/success/"
     canceledUrl: "https://vedanet.uehr.co/koibana-ai/payment/canceled/"
-    price: "price_1MpWofBJQaGa5lwyDoT0MtBx"
+    price: "price_1MpWZjBJQaGa5lwyzCXAh7x6"
     mode: "subscription"
 ---
 
