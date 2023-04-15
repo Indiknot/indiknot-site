@@ -5,8 +5,6 @@ draft: false
 disableShare: false
 ---
 
-## LINEで恋愛相談ができるAI 「アイさん」
-
 恋愛相談を人に打ち明けるのはなかなか勇気がいるものです。そんな悩めるあなたに、新しい相談相手が登場しました！
 
 ![アイさん](/images/koibana-ai/koibana-ai.png)
@@ -49,11 +47,17 @@ disableShare: false
 
 ## ■ コマンド
 
+
+&nbsp;
+
 ### `話し放題プラン` (申し込み前)
 
 話し放題プランへの申し込みリンクを開きます。
 
 ![回答3](/images/koibana-ai/example-3.png)
+
+
+&nbsp;
 
 ### `話し放題プラン` (申し込み後)
 
@@ -62,6 +66,9 @@ disableShare: false
 
 ![回答4](/images/koibana-ai/example-4.png)
 
+
+&nbsp;
+
 ### `話し放題プラン解約`
 
 話し放題プランの解約が出来ます。
@@ -69,12 +76,18 @@ disableShare: false
 
 ![回答5](/images/koibana-ai/example-5.png)
 
+
+&nbsp;
+
 ### `感想 ...`
 
 アイさんの恋愛相談への感想をコメントすることで、無料で相談できる回数が1回増えます。
 頂いた感想はより良い恋愛相談に役立てます。
 
 ![回答6](/images/koibana-ai/example-6.png)
+
+
+&nbsp;
 
 ### `お問い合わせ`
 
