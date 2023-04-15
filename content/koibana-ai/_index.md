@@ -19,7 +19,7 @@ disableShare: false
 
 &nbsp;
 
-あなたの恋愛相談に対して、文脈に応じて具体的なアドバイスをしてくれます。
+あなたの恋愛相談に対して、文脈に応じた具体的なアドバイスをしてくれます。
 
 ![回答1](/images/koibana-ai/example-1.png)
 ![回答2](/images/koibana-ai/example-2.png)
