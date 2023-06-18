@@ -45,6 +45,12 @@ disableShare: false
 
 &nbsp;
 
+## ■ SNS
+
+[Note | 恋バナAI アイさん@恋愛Tips](https://note.com/koibana_ai)
+
+[Twitter | 恋バナAI アイさん](https://twitter.com/koibana_ai)
+
 ## ■ コマンド
 
 
