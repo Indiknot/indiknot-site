@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vedanet | 人々の繋ぎ目となる on vedanet</title>
-    <link>https://vedanet.uehr.co/</link>
-    <description>Recent content in Vedanet | 人々の繋ぎ目となる on vedanet</description>
+    <title>pao | 人々の繋ぎ目となる on pao</title>
+    <link>https://pao.uehr.co/</link>
+    <description>Recent content in pao | 人々の繋ぎ目となる on pao</description>
     <image>
-      <title>vedanet</title>
-      <url>https://vedanet.uehr.co/images/koibana-ai/koibana-ai-ogp.png</url>
-      <link>https://vedanet.uehr.co/images/koibana-ai/koibana-ai-ogp.png</link>
+      <title>pao</title>
+      <url>https://pao.uehr.co/images/koibana-ai/koibana-ai-ogp.png</url>
+      <link>https://pao.uehr.co/images/koibana-ai/koibana-ai-ogp.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Mar 2023 13:46:47 +0900</lastBuildDate><atom:link href="https://vedanet.uehr.co/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 13:46:47 +0900</lastBuildDate><atom:link href="https://pao.uehr.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://vedanet.uehr.co/koibana-ai/payment/checkout/</link>
+      <link>https://pao.uehr.co/koibana-ai/payment/checkout/</link>
       <pubDate>Thu, 30 Mar 2023 22:56:07 +0900</pubDate>
       
-      <guid>https://vedanet.uehr.co/koibana-ai/payment/checkout/</guid>
+      <guid>https://pao.uehr.co/koibana-ai/payment/checkout/</guid>
       <description>お支払いページへ遷移</description>
     </item>
     
     <item>
       <title>Canceled</title>
-      <link>https://vedanet.uehr.co/koibana-ai/payment/canceled/</link>
+      <link>https://pao.uehr.co/koibana-ai/payment/canceled/</link>
       <pubDate>Thu, 30 Mar 2023 22:56:07 +0900</pubDate>
       
-      <guid>https://vedanet.uehr.co/koibana-ai/payment/canceled/</guid>
+      <guid>https://pao.uehr.co/koibana-ai/payment/canceled/</guid>
       <description>お支払いがキャンセルされました。</description>
     </item>
     
     <item>
       <title>✔︎ 決済が完了しました</title>
-      <link>https://vedanet.uehr.co/koibana-ai/payment/success/</link>
+      <link>https://pao.uehr.co/koibana-ai/payment/success/</link>
       <pubDate>Thu, 30 Mar 2023 22:56:03 +0900</pubDate>
       
-      <guid>https://vedanet.uehr.co/koibana-ai/payment/success/</guid>
+      <guid>https://pao.uehr.co/koibana-ai/payment/success/</guid>
       <description>「恋バナAI アイさん | 話し放題プラン」のお申し込みありがとうございます。 これより、アイさんと無制限で恋愛相談が出来ます。</description>
     </item>
     
     <item>
       <title>特定商取引法に基づく表記</title>
-      <link>https://vedanet.uehr.co/transaction-info/</link>
+      <link>https://pao.uehr.co/transaction-info/</link>
       <pubDate>Sun, 26 Mar 2023 14:00:43 +0900</pubDate>
       
-      <guid>https://vedanet.uehr.co/transaction-info/</guid>
+      <guid>https://pao.uehr.co/transaction-info/</guid>
       <description>法人名 上原 友美恵
 所在地 請求があったら遅滞なく開示します。
 電話番号 請求があったら遅滞なく開示します。
-メールアドレス uehara.yudai+vedanet@gmail.com
+メールアドレス uehara.yudai+pao@gmail.com
 運営統括責任者 上原 友美恵
 追加手数料等の追加料金 当サービスの閲覧等に必要となるインターネット接続料金、通信料金は、お客様のご負担となります。
 交換および返品（返金ポリシー） １.お客様のご都合による返品・キャンセル
@@ -58,7 +58,7 @@
 引渡時期 注文後すぐにご利用頂けます。
 受け付け可能な決済手段 カード払い Apple Pay Google Pay 決済期間 ご注文時にお支払いが確定します。
 販売価格 恋バナAI 話し放題プラン: ¥500 / 月
-Vedanet | 人々の繋ぎ目となる </description>
+pao | 人々の繋ぎ目となる </description>
     </item>
     
   </channel>

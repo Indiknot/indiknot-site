@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vedanet.uehr.co/koibana-ai/payment/checkout/</loc>
+    <loc>https://pao.uehr.co/koibana-ai/payment/checkout/</loc>
     <lastmod>2023-03-30T22:56:07+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/koibana-ai/payment/canceled/</loc>
+    <loc>https://pao.uehr.co/koibana-ai/payment/canceled/</loc>
     <lastmod>2023-03-30T22:56:07+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/koibana-ai/payment/success/</loc>
+    <loc>https://pao.uehr.co/koibana-ai/payment/success/</loc>
     <lastmod>2023-03-30T22:56:03+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/koibana-ai/</loc>
+    <loc>https://pao.uehr.co/koibana-ai/</loc>
     <lastmod>2023-03-26T14:15:21+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/transaction-info/</loc>
+    <loc>https://pao.uehr.co/transaction-info/</loc>
     <lastmod>2023-03-26T14:00:43+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/</loc>
+    <loc>https://pao.uehr.co/</loc>
     <lastmod>2023-03-26T13:46:47+09:00</lastmod>
   </url><url>
-    <loc>https://vedanet.uehr.co/categories/</loc>
+    <loc>https://pao.uehr.co/categories/</loc>
   </url><url>
-    <loc>https://vedanet.uehr.co/tags/</loc>
+    <loc>https://pao.uehr.co/tags/</loc>
   </url>
 </urlset>

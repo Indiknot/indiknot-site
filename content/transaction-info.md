@@ -2,7 +2,7 @@
 title: "特定商取引法に基づく表記"
 date: 2023-03-26T14:00:43+09:00
 draft: false
-meta_image: "vedanet.png"
+meta_image: "pao.png"
 hideMeta: true
 ---
 
@@ -20,7 +20,7 @@ hideMeta: true
 
 ### メールアドレス
 
-uehara.yudai+vedanet@gmail.com
+uehara.yudai+pao@gmail.com
 
 ### 運営統括責任者
 
@@ -60,5 +60,5 @@ uehara.yudai+vedanet@gmail.com
 
 ---
 
-[Vedanet | 人々の繋ぎ目となる](/)
-[![Vedanet Logo](/images/vedanet-with-name.png)](/)
+[pao | 人々の繋ぎ目となる](/)
+[![pao Logo](/images/pao-with-name.png)](/)

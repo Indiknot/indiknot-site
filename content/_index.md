@@ -1,13 +1,13 @@
 ---
-title: "Vedanet | 人々の繋ぎ目となる"
+title: "pao | 人々の繋ぎ目となる"
 date: 2023-03-26T13:46:47+09:00
 draft: false
 meta_image: "images/koibana-ai/koibana-ai-ogp.png"
 ---
 
-![Vedanet Logo](/images/vedanet-with-name.png)
+![pao Logo](/images/pao-with-name.png)
 
-「Vedanet」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
+「pao」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
 
 &nbsp;
 

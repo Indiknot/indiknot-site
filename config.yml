@@ -1,9 +1,10 @@
-baseURL: 'https://vedanet.uehr.co/'
+baseURL: 'https://pao.uehr.co/'
 languageCode: 'ja'
-title: 'vedanet'
+title: 'pao'
 theme: 'PaperMod'
 publishDir: "docs"
 params:
+    defaultTheme: light
     assets:
         favicon: "/favicon.ico"
         favicon16x16:  "/images/favicon-16x16.png"
