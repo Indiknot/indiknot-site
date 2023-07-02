@@ -60,5 +60,5 @@ uehara.yudai+pao@gmail.com
 
 ---
 
-[pao | 人々の繋ぎ目となる](/)
-[![pao Logo](/images/pao-with-name.png)](/)
+[PAO | 人々の繋ぎ目となる](/)
+[![PAO Logo](/images/pao-with-name.png)](/)

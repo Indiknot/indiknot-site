@@ -1,13 +1,13 @@
 ---
-title: "pao | 人々の繋ぎ目となる"
+title: "PAO | 人々の繋ぎ目となる"
 date: 2023-03-26T13:46:47+09:00
 draft: false
 meta_image: "images/koibana-ai/koibana-ai-ogp.png"
 ---
 
-![pao Logo](/images/pao-with-name.png)
+![PAO Logo](/images/pao-with-name.png)
 
-「pao」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
+「PAO」はソフトウェアの力で人々の繋ぎ目となることを使命としたプラットフォームです。主にAIを活用したサービスを提供しています。
 
 &nbsp;
 

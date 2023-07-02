@@ -1,6 +1,6 @@
 baseURL: 'https://pao.uehr.co/'
 languageCode: 'ja'
-title: 'pao'
+title: 'PAO'
 theme: 'PaperMod'
 publishDir: "docs"
 params:
