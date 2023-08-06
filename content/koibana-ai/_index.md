@@ -15,6 +15,10 @@ disableShare: false
 
 &nbsp;
 
+## ■ AIについて
+
+**ChatGPT(gpt-v4)** のモデルをベースとしたAIです。
+
 ## ■ アイさんの回答例
 
 &nbsp;
