@@ -14,3 +14,4 @@ params:
     ShowShareButtons: true
     ShareButtons: ["line", "twitter", "facebook"]
     DateFormat: "2006-01-02"
+    googleAnalyticsID: "G-855SW3Q6ZE"
