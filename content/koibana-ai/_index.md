@@ -19,6 +19,8 @@ disableShare: false
 
 **ChatGPT(gpt-v4)** のモデルをベースとしたAIです。
 
+&nbsp;
+
 ## ■ アイさんの回答例
 
 &nbsp;
@@ -54,6 +56,8 @@ disableShare: false
 [Note | 恋バナAI アイさん@恋愛Tips](https://note.com/koibana_ai)
 
 [Twitter | 恋バナAI アイさん](https://twitter.com/koibana_ai)
+
+&nbsp;
 
 ## ■ コマンド
 
